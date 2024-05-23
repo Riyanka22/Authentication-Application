@@ -1,0 +1,16 @@
+
+
+SELECT * FROM `users`;
+
+
+id	name		email			password	
+1	Subha Maity	subha86@gmail.com	123	
+2	Sukla Bose	sukla01@gmail.com	abc	
+3	Pratima Dey	hfgf@fghf.com		yyy	
+4	Tiyasa Roy	Tiyasaroy123@gmail.com	123456	
+5	Sayanee Mistri	sayanee23@gmail.com	456654	
+6	Anu Sen		a@gmail.com		77	
+7	Ritu Roy	ritu@gmail.com		12345	
+8	Sayanee Mistri	jbskar@gmail.com	456	
+9	Fahim Mondol	Fah3@gmail.com		Fah	
+10	Vishal Dhoni	Vis3@gmail.com		vis	
